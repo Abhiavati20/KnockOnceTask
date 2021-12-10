@@ -7,5 +7,5 @@
 #### Run App
 ###### npm run dev
 
-<img align="left" alt="GIF" src="https://drive.google.com/file/d/1dNIf6WerKLObTdF1K_S_gfSJRB1aI237/view?usp=sharing" width="500" height="320" />
-<img align="right" alt="GIF" src="https://drive.google.com/file/d/1dNIf6WerKLObTdF1K_S_gfSJRB1aI237/view?usp=sharing" width="500" height="320" />
+<img align="left" alt="GIF" src="./public/screenshot(123).png" width="500" height="320" />
+<img align="right" alt="GIF" src="./public/screenshot(124).png" width="500" height="320" />
