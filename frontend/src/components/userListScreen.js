@@ -10,8 +10,10 @@ const UserListScreen = () => {
     const dispatch = useDispatch()
   
     const userList = useSelector((state) => state.userList)
-    const { loading, error, users } = userList
+    let { loading, error, users } = userList
     
+    users = users?.sort((a, b) => new Date(a.date) - new Date(b.date))
+
     useEffect(() => {
         dispatch(listUsers())
     }, [dispatch])
